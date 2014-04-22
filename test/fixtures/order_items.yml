@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  quantity: 1
+  color: MyString
+  bust: MyString
+  waist: MyString
+  hips: MyString
+  outer_leg: MyString
+  shoulder_to_floor: MyString
+
+two:
+  quantity: 1
+  color: MyString
+  bust: MyString
+  waist: MyString
+  hips: MyString
+  outer_leg: MyString
+  shoulder_to_floor: MyString

@@ -1,0 +1,11 @@
+<h1>Display Information</h1>
+<br>
+
+<br>
+
+<% if !@admins.blank? %>
+	<% for item in @admins %>
+		<%= item.first_name %> <%= item.last_name %> <br/>
+	<% end %>
+   <% else %>
+<% end %>

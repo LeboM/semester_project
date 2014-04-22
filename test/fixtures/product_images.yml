@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  product_image_thumb: MyString
+  product_image_large: MyString
+
+two:
+  product_image_thumb: MyString
+  product_image_large: MyString

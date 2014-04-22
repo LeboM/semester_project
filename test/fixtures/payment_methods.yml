@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  payment_method_code: MyString
+  payment_method_description: MyString
+
+two:
+  payment_method_code: MyString
+  payment_method_description: MyString
